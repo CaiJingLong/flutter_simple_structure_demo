@@ -1,8 +1,15 @@
 # flutter_simple_structure_demo
 
-A flutter for structure
+一个简单的demo项目
 
-## Getting Started
+对应 https://flutter.io/tutorials/layout/ 中的第一个截图
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+[简书](https://www.jianshu.com/p/7176e3d37b55) 
+
+## 运行
+
+已有flutter环境的前提下
+
+命令行`flutter packages get`
+
+flutter run  
